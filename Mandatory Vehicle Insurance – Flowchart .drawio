@@ -71,6 +71,9 @@
         <mxCell id="gk0OeYUGjCRyECOFVGLQ-34" value="Finalize &amp;amp; Save Trained Model" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="108" y="755" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gk0OeYUGjCRyECOFVGLQ-37" value="Real-World Prediction Phase (Toyota Customer List Processing)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="10" width="400" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
