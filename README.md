@@ -19,6 +19,9 @@ Metrics: the rate of signed contracts (%), Customer Acquisition Cost, rejection 
 
 An application that gets a csv file and gives back a list with the Potential customers.
 
+## Data source
 
+We used a kaggle database, about Car Insurance Data.
+Source: https://www.kaggle.com/datasets/sagnik1511/car-insurance-data/data
 
 
