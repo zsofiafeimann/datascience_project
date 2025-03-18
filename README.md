@@ -21,7 +21,6 @@ An application that gets a csv file and gives back a list with the Potential cus
 
 ## Data source
 
-We used a kaggle database, about Car Insurance Data.
-Source: https://www.kaggle.com/datasets/sagnik1511/car-insurance-data/data
-
+We used a github database, about Car Insurance Classification data.
+Source: https://github.com/GhodratRezaei/vehicle-Insurance-Classification-
 
